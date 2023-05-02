@@ -1,0 +1,12 @@
+/Users/macbookpro/substreams-mint/target/wasm32-unknown-unknown/release/deps/prost-4bf42188e1657356.rmeta: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/error.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/message.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/types.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/encoding.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/../README.md
+
+/Users/macbookpro/substreams-mint/target/wasm32-unknown-unknown/release/deps/libprost-4bf42188e1657356.rlib: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/error.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/message.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/types.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/encoding.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/../README.md
+
+/Users/macbookpro/substreams-mint/target/wasm32-unknown-unknown/release/deps/prost-4bf42188e1657356.d: /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/lib.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/error.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/message.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/types.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/encoding.rs /Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/../README.md
+
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/lib.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/error.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/message.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/types.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/encoding.rs:
+/Users/macbookpro/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.11.9/src/../README.md:

@@ -1,0 +1,28 @@
+specVersion: v0.1.0
+description: 
+
+package:
+  name: Header
+  version: v0.0.1
+
+protobuf:
+  files:
+    - gogoproto/gogo.proto
+    - types.proto
+    - cosmos.proto
+  importPaths:
+    - ./proto
+
+binaries:
+  default:
+    type: wasm/rust-v1
+    file: ./target/wasm32-unknown-unknown/release/substreams_header.wasm
+
+modules:
+  - name: map_hello_world
+    kind: map
+    startBlock: 31500000
+    inputs:
+      - source: sf.cosmos.type.v1.Block
+    output: 
+      type: proto:sf.cosmos.type.v1.Header
